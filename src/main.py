@@ -5,7 +5,8 @@ main_path = Path.home()
 backups = Path.home() / 'backups'
 
 directories = [ 
-    'Downloads', 
+    'Downloads',
+    'Documents', 
     'Desktop', 
     'Pictures', 
     'Videos', 
