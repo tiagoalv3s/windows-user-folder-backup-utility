@@ -1,2 +1,4 @@
-# Recommended
-python>=3.8 
+# No external dependencies required
+# This project uses only built-in Python libraries (pathlib, shutil)
+# Specify minimum Python version
+python>=3.6 
